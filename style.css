@@ -98,7 +98,7 @@ color:black;
 font-family: var(--fonte-secundaria);
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
 background-color: #ced5d1;  
 }
 
